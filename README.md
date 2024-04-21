@@ -31,6 +31,7 @@
 | **2023年合計** | 1219h31m |
 
 ![image](https://github.com/nil-ramuda/daily_report/assets/94735931/fd56894a-dad5-4174-abd5-b293a849650e)
+![image](https://github.com/nil-ramuda/daily_report/assets/94735931/d1df1ef7-9045-4d22-baae-27d02aac920d)
 
 
 

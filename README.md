@@ -10,7 +10,6 @@
 | 2022年12月     | 98h04m  |
 | **2022年合計** | 111h55m |
 
-![image](https://github.com/nil-ramuda/daily_report/assets/94735931/45aa5dde-2f28-4de9-b04f-98100210d19f)
 
 
 ### 2023年
@@ -30,8 +29,6 @@
 | 2023年12月     | 113h35m |
 | **2023年合計** | 1219h31m |
 
-![image](https://github.com/nil-ramuda/daily_report/assets/94735931/fd56894a-dad5-4174-abd5-b293a849650e)
-![image](https://github.com/nil-ramuda/daily_report/assets/94735931/d1df1ef7-9045-4d22-baae-27d02aac920d)
 
 
 
@@ -44,4 +41,7 @@
 | 2024年3月      | 114h14m  |
 | **2024年合計** | 368h38m |
 
+![image](https://github.com/nil-ramuda/daily_report/assets/94735931/45aa5dde-2f28-4de9-b04f-98100210d19f)
+![image](https://github.com/nil-ramuda/daily_report/assets/94735931/fd56894a-dad5-4174-abd5-b293a849650e)
+![image](https://github.com/nil-ramuda/daily_report/assets/94735931/d1df1ef7-9045-4d22-baae-27d02aac920d)
 
